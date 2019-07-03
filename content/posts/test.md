@@ -1,7 +1,7 @@
 +++
-title = "Test"
+title = "Ich starte einen Lernblog"
 date = "2019-07-03"
-draft = true
+draft = false
 pinned = false
 +++
-Dies ist ein Testeintrag
+Um die [Lernblogplattform](https://lernblogs.bwd.ch) zu testen, starte ich nun selber einen Lernblog.
