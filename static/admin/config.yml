@@ -5,7 +5,7 @@ media_folder: "content/img"
 public_folder: "img"
 
 site_url: "/"
-display_url: "https://lernblog.ch"
+display_url: "https://lernblog.andreaskeller.name"
 
 collections:
   - label: "Blogeinträge"

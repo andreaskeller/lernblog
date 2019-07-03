@@ -4,10 +4,9 @@ draft = false
 description = "Seite über mich"
 image = ""
 +++
-![](/img/default-author.png)
 
-## Vorname Nachname
+![](/img/andreas.png)
 
-info@lernblog.ch
+## Andreas Keller
 
-Beschreibung, wer ich bin...
+andreas@andreaskeller.name
